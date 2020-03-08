@@ -1,3 +1,4 @@
+//for mutable data
 fluid.defaults("fluidTutorial.helloWorld", {
     gradeNames: ["fluid.modelComponent"],
     model: {
